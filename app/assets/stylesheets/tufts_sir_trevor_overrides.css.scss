@@ -1,0 +1,32 @@
+.quote {
+  margin-left: 6em;
+}
+
+.quote__content {
+  font-size: 16px;
+}
+
+.quote__cite {
+  margin-left: 2em;
+}
+
+.st__content-block {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.heading-type-editor {
+  input {
+    vertical-align: 3px;
+    margin-right: 3px;
+  }
+  label {
+    margin-right: 1em;
+  }
+}
+
+// Non-IIIF images look super weird in the carousel.
+.carousel-inner img {
+  object-fit: scale-down;
+}
+

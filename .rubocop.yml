@@ -1,0 +1,8 @@
+Metrics/LineLength:
+  Max: 120
+Style/Next:
+  Enabled: false
+Style/ParenthesesAroundCondition:
+  Enabled: false
+Metrics/BlockLength:
+  Enabled: false

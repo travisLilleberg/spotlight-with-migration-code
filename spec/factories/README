@@ -1,0 +1,6 @@
+These tests use Spotlight's factories as much as they can.
+
+We need a special user because we use ldap, and 'username' instead of 'email'.
+
+-- Travis Lilleberg
+
